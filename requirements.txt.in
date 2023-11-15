@@ -1,0 +1,5 @@
+--extra-index-url=https://wheelhouse.odoo-community.org/oca-simple
+
+# odoo
+-r https://raw.githubusercontent.com/odoo/odoo/master/requirements.txt
+odoo @ git+https://github.com/regispirard/odoo.git@16.0-remus_master
