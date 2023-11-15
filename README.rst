@@ -42,7 +42,7 @@ Copy ``odoo.cfg.template`` to ``odoo.cfg`` and update it as needed (set value fo
 
 Run odoo and create your local database with the project installed :
 
-    `odoo -c odoo.cfg -d demo -i demo`
+    `odoo -c odoo.cfg -d demo -i demo_all`
 
 
 Upgrade database
