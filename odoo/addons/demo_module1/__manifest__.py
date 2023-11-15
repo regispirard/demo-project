@@ -9,6 +9,7 @@
     "category": "demo",
     "version": "16.0.0.1.0",
     "license": "AGPL-3",
+    "depends": ["base", "mail", "resource", "web"],
     "installable": True,
     "application": True,
     "auto_install": False,
