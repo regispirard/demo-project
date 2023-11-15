@@ -7,7 +7,7 @@
     Demo Odoo Project - All addons and dependencies""",
     "website": "",
     "category": "demo",
-    "version": "16.0.0.0.4",
+    "version": "16.0.0.0.5",
     "license": "AGPL-3",
     "depends": [
         # Odoo addons - no odoo enterprise addons dependencies !!!
