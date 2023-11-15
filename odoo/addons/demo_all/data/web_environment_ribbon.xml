@@ -5,7 +5,7 @@
 
   <function model="ir.config_parameter" name="write">
     <value eval="[ref('web_environment_ribbon.default_ribbon_name'),]" />
-    <value eval="{'value': 'DEV (0.0.3)'}" />
+    <value eval="{'value': 'DEV (0.0.4)'}" />
   </function>
 
 </odoo>
