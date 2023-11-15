@@ -8,8 +8,6 @@ class DemoEmployee(models.Model):
 
     _name = "demo.employee"
     _description = "DEMO Employee"
-    _inherit = ["mail.thread", "mail.activity.mixin", "avatar.mixin"]
-    _mail_post_access = "read"
 
 
     employee_name = fields.Char(
