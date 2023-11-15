@@ -27,6 +27,7 @@ manifestoo_core==0.10.3
 MarkupSafe==2.1.2
 num2words==0.5.9
 odoo @ git+https://github.com/regispirard/odoo.git@b32bd07e74de6a3f985989eb89a7359c91186eec
+odoo-addon-base-user-role==16.0.1.2.2.3
 odoo-addon-web-environment-ribbon==16.0.1.0.0.5
 ofxparse==0.21
 passlib==1.7.4

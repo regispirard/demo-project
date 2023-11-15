@@ -17,6 +17,7 @@
         "web",
         # OCA modules
         "web_environment_ribbon",
+        "base_user_role",
         # Custom modules
         "demo_module1",
     ],
