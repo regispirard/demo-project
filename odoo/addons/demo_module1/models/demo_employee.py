@@ -24,3 +24,4 @@ class DemoEmployee(models.Model):
         default=lambda self: self.env.company,
         readonly=True,
     )
+    some_field = fields.Char()
